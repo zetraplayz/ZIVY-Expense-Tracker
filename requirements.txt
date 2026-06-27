@@ -1,0 +1,4 @@
+PyQt6==6.7.0
+pyqtgraph==0.13.3
+pytest==8.2.2
+numpy==2.0.0

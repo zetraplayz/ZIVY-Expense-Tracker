@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "d:\\College Projects\\expense-tracker\\venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "d:\\College Projects\\expense-tracker"
+    ]
+}

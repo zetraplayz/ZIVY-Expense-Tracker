@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
+
+# Testing
+.pytest_cache/
+
+# App Data
+expense_tracker.db
+
+*.db
